@@ -1,0 +1,14 @@
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/bin/Debug/net8.0/L3-Esercizio
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/bin/Debug/net8.0/L3-Esercizio.deps.json
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/bin/Debug/net8.0/L3-Esercizio.runtimeconfig.json
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/bin/Debug/net8.0/L3-Esercizio.dll
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/bin/Debug/net8.0/L3-Esercizio.pdb
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/L3-Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/L3-Esercizio.AssemblyInfoInputs.cache
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/L3-Esercizio.AssemblyInfo.cs
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/L3-Esercizio.csproj.CoreCompileInputs.cache
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/L3-Esercizio.dll
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/refint/L3-Esercizio.dll
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/L3-Esercizio.pdb
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/L3-Esercizio.genruntimeconfig.cache
+/Users/francescocaputo/Desktop/FS2023/CorsoFS2023/BackEnd/S1/L3-Esercizio/obj/Debug/net8.0/ref/L3-Esercizio.dll
